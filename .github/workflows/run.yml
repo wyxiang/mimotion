@@ -2,7 +2,7 @@ name: xm-sport
 
 on:
   schedule:
-    - cron: '42 22 * * *'
+    - cron: '31 20 * * *'
   workflow_dispatch:
 
 jobs:
